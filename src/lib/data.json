@@ -1,0 +1,42 @@
+ [
+    {
+        "plan" : "Lite",
+        "price_list" : {
+            "month" : "$19",
+            "year": "$200"
+        },
+        "features": [
+            "All limited links", 
+            "Personal ANalytics Platform",
+            "Chat Support"
+
+        ]
+    },
+    {
+        "plan" : "Basic",
+        "price_list" :{
+            "month" : "$58",
+            "year": "$600"
+        },
+        "features": [
+            "All limited links", 
+            "Personal ANalytics Platform",
+            "Chat Support",
+            "Optimized Tracking"
+        ]
+    },
+    {
+        "plan" : "Basic",
+        "price_list" :{
+            "month" : "$159",
+            "year": "$1300"
+        },
+        "features": [
+            "All limited links", 
+            "Personal ANalytics Platform",
+            "Chat Support",
+            "Optimized Tracking",
+            "20+ users at the go"
+        ]
+    }
+]
